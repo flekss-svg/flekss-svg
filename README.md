@@ -1,16 +1,34 @@
-## Hi there 👋
+💻 **Python Developer | AI & Automation Enthusiast**
 
-<!--
-**flekss-svg/flekss-svg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build practical software with Python, focusing on automation, backend development and AI-powered solutions.
 
-Here are some ideas to get you started:
+### 🚀 What I work with
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🐍 Python
+* 🤖 AI / Machine Learning
+* ⚙️ Automation & Backend Development
+* 📊 Data & Analytics
+* 🌐 Web Applications
+
+### 🔭 Currently exploring
+
+* AI agents and LLM-powered applications
+* Machine Learning
+* Intelligent transport systems
+* Predictive analytics
+* Automation of real-world processes
+
+### 📌 Projects
+
+* **Sklad-Uchet** — Python-based project for inventory/accounting workflows
+* **utlc-era** — Python project focused on practical software development
+
+### 🎯 Goal
+
+Build useful products where **software, automation and AI** solve real-world problems.
+
+---
+
+### 📫 Connect
+
+[GitHub](https://github.com/flekss-svg)
