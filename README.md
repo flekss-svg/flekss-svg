@@ -1,34 +1,16 @@
-💻 **Python Developer | AI & Automation Enthusiast**
+## Roman Flekser
 
-I build practical software with Python, focusing on automation, backend development and AI-powered solutions.
+Python developer interested in machine learning and data analysis.
 
-### 🚀 What I work with
+### Projects
 
-* 🐍 Python
-* 🤖 AI / Machine Learning
-* ⚙️ Automation & Backend Development
-* 📊 Data & Analytics
-* 🌐 Web Applications
+- **[mvp-hack](https://github.com/flekss-svg/mvp-hack)** — public transport delay prediction. Moscow Transport Hackathon 2026, semi-finalist. Worked on the ML module.
+- **[utlc-era](https://github.com/flekss-svg/utlc-era)** — container shipping cost calculation service. Systems analyst and project lead.
 
-### 🔭 Currently exploring
+### Tools
 
-* AI agents and LLM-powered applications
-* Machine Learning
-* Intelligent transport systems
-* Predictive analytics
-* Automation of real-world processes
+Python, SQL, pandas, NumPy, scikit-learn, CatBoost, FastAPI, PostgreSQL, Docker, Git
 
-### 📌 Projects
+### Contact
 
-* **Sklad-Uchet** — Python-based project for inventory/accounting workflows
-* **utlc-era** — Python project focused on practical software development
-
-### 🎯 Goal
-
-Build useful products where **software, automation and AI** solve real-world problems.
-
----
-
-### 📫 Connect
-
-[GitHub](https://github.com/flekss-svg)
+Telegram: [@romflekss](https://t.me/romflekss) · flekser01@list.ru
