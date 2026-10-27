@@ -11,6 +11,4 @@ Python developer interested in machine learning and data analysis.
 
 Python, SQL, pandas, NumPy, scikit-learn, CatBoost, FastAPI, PostgreSQL, Docker, Git
 
-### Contact
 
-Telegram: [@romflekss](https://t.me/romflekss) · flekser01@list.ru
